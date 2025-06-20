@@ -18,7 +18,7 @@
 -->
 
 
-<h1 align="left"> >My Skills> <img src="https://99designs-blog.imgix.net/blog/wp-content/uploads/2020/03/slower.gif?auto=format&q=60&fit=max&w=930" alt="photo" width="100">
+<h1 align="left"> <My Skills> <img src="https://99designs-blog.imgix.net/blog/wp-content/uploads/2020/03/slower.gif?auto=format&q=60&fit=max&w=930" alt="photo" width="100">
 
 -------------
 
@@ -41,7 +41,7 @@
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="css" height="48"/> </a> -->
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg" alt="Slack" height="48"/> </a> 
 </p> 
-## Contact Me
+ Contact Me
 
 <p align="center">
   <a href="https://google.com/"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"  width="70" height="70"/></a>
