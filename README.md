@@ -13,7 +13,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ilhanB&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilhanB&hide=TeX&layout=compact) </br>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=HarveyCla.HarveyCla)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ilhanB.ilhanB)
 
 ## Skills
 <!--
