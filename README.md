@@ -1,5 +1,7 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  I'm Ilhan Bozan, System Engineer - Mechanical Engineer - AWS-Solution Architect & DevOps Engineer :computer: 
+  I'm Ilhan Bozan, System Engineer - Mechanical Engineer  
+  UH-1, UH-60 and UH-60 D-SAR Pilot - Maintenance Test Pilot
+  and now AWS & DevOps Engineer :computer: 
   </br>
   <div>
   <a href="https://google.com/" target="_blank">
@@ -42,7 +44,6 @@
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg" alt="Slack" height="48"/> </a> 
 </p> 
  >Contact Me>
- <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg" alt="Slack" height="48"/> </a> 
 
 <p align="center">
   <a href="https://google.com/"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"  width="70" height="70"/></a>
